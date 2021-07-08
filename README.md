@@ -1,3 +1,12 @@
+#Pokegame
+A simple React app that randomizes two hands of 4 Pokemon cards and compares their power. The one with higher power wins.
+
+### What I Learned
+Improved understanding of React components and conditional styling.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
